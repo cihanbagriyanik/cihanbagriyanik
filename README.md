@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Cihan Bagriyanik, Back-End Developer :computer: 
+  I'm Cihan Bagriyanik, Prospective Full-Stack Developer :computer: 
   </br>
   <div>
   <a href="https://cihan.netlify.app/" target="_blank">
