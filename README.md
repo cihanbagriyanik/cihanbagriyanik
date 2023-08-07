@@ -8,12 +8,10 @@
   </div> 
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
- <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&hide=TeX&layout=compact) </br>
+![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cihanbagriyanik.cihanbagriyanik)
 [![cihanbagriyanik's github stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=dark)](https://github.com/cihanbagriyanik/github-readme-stats)
 
