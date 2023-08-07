@@ -12,6 +12,7 @@
 </br>
 
 ![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&langs_count=8)
 </br>
