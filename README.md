@@ -11,7 +11,7 @@
  </p>
 </br>
 
-![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=dracula)
+![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=tokyonight)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&exclude_repo=github-readme-stats,cihanbagriyanik.github.io)
 </br>
