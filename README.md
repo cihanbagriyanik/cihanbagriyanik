@@ -13,7 +13,7 @@
 
 ![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cihanbagriyanik.cihanbagriyanik)
+</br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cihanbagriyanik.cihanbagriyanik)
 
 
 ## Skills
