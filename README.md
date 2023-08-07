@@ -11,7 +11,8 @@
  </p>
 </br>
 
-![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&hide=TeX&layout=compact) </br>
+![Cihan Bagriyanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cihanbagriyanik.cihanbagriyanik)
 
 
