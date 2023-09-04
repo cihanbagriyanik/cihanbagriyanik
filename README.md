@@ -1,10 +1,8 @@
 
 
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Cihan
-<img
-     src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green"
-     alt="" align="right" width="400"
-     /></br>
+<img src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green" alt="" align="right" width="400"/></br>
+
 <font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations, I quit my job to be a developer.👨‍💻 </font>
 </br>
 <font color="pink"> 👨‍💻Nowadays I am learning development to be a Fullstack Developer.👨‍💻 </font>
@@ -82,10 +80,7 @@
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green"
-     alt=""
-     /> </br></br></br>
+     
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&theme=blue-green"
      alt=""
