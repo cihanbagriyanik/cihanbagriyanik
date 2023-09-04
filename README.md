@@ -65,7 +65,7 @@
 :-------------------------|-------------------------|-------------------------
 [Foodies](https://cihanbagriyanik.github.io/Foodies_html-css-bootstrap-js/)| HTML5, CSS3, Bootstrap, Javascript|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/3a32e7de-5a62-41cb-86bf-db1a1d838b86)
 [Live Music](https://cihanbagriyanik.github.io/Music_Website_html-css-js/)| HTML5, CSS, Javascript|![music](https://github.com/cihanbagriyanik/Music_Website_html-css-js/assets/132518854/6440d13e-e606-479b-853c-1963a53ccd9a)
-[Checkout Page](https://cihanbagriyanik.github.io/Checkout_Form_html-css-bootstrap/)| HTML5, CSS3, Bootstrap |![checkout](https://github.com/cihanbagriyanik/Checkout_Form_html-css-bootstrap/assets/132518854/7930bf54-1423-4295-9f64-dbcf806df521)
+[Checkout Page](https://cihanbagriyanik.github.io/Checkout_Form_html-css-bootstrap/)| HTML5, CSS3, Bootstrap |![checkout](https://github.com/cihanbagriyanik/Checkout_Form_html-css-bootstrap/assets/132518854/70f30b52-9eb5-43a9-a44e-ed9f4716493f)
 [Course](https://cihanbagriyanik.github.io/Clarusway_Course_html-css-bootstrap/)| HTML5, CSS3 |![course](https://github.com/cihanbagriyanik/Clarusway_Course_html-css-bootstrap/assets/132518854/eb70a740-df76-4078-97d1-5a65e1d50735)
 [Netflix](https://cihanbagriyanik.github.io/LoginPage_html-css/)| HTML5, CSS3 |![netf](https://github.com/cihanbagriyanik/LoginPage_html-css/assets/132518854/f09ae54c-a40e-415d-82de-191136245102)
 [Paralax Website](https://cihanbagriyanik.github.io/LoginPage_html-css/)| HTML5, CSS3 |![paralax](https://github.com/cihanbagriyanik/Paralax_Website_html-css/assets/132518854/34c2225f-1d03-4820-8a79-dc7174ef3b26)
