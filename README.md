@@ -3,7 +3,7 @@
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Cihan
 <img
      src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green"
-     alt=""
+     alt="" align="right" width="400"
      /></br>
 <font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations, I quit my job to be a developer.👨‍💻 </font>
 </br>
