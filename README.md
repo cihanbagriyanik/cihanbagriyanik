@@ -78,7 +78,7 @@
 <br/>
      
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&langs_count=8"
      alt=""
      /> <br/>
 </div>
