@@ -1,6 +1,8 @@
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Cihan
 <img src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green" alt="" align="right" width="375"/>
-<font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations, I quit my job to be a developer.</font>
+<font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations.</font>
+</br>
+<font color="pink"> 🙇‍♂️ I quit my job to be a developer.</font>
 </br>
 <font color="pink"> 👨‍💻 Nowadays I am learning development to be a Fullstack Developer.</font>
 </br>
