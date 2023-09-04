@@ -79,6 +79,6 @@
      
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanbagriyanik&langs_count=8"
-     alt="" width="400"
+     alt="" width="350"
      /> <br/>
 </div>
