@@ -10,7 +10,7 @@
 <br>
 <font color="pink"> 👨‍💻 Currently, I am focusing on Javascript, SASS, Bootstrap 🚀 </font>
 
-
+<br></br>
 ![](https://komarev.com/ghpvc/?username=cihanbagriyanik&color=red&style=for-the-badge)
 #### 📬 Connect with me:
 
