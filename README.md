@@ -68,7 +68,7 @@
 [Checkout Page](https://cihanbagriyanik.github.io/Checkout_Form_html-css-bootstrap/)| HTML5, CSS3, Bootstrap |![checkout](https://github.com/cihanbagriyanik/Checkout_Form_html-css-bootstrap/assets/132518854/70f30b52-9eb5-43a9-a44e-ed9f4716493f)
 [Course](https://cihanbagriyanik.github.io/Clarusway_Course_html-css-bootstrap/)| HTML5, CSS3 |![course](https://github.com/cihanbagriyanik/Clarusway_Course_html-css-bootstrap/assets/132518854/5672624d-73bb-4e8f-8b6c-cea3d37af90e)
 [Netflix](https://cihanbagriyanik.github.io/LoginPage_html-css/)| HTML5, CSS3 |![netf](https://github.com/cihanbagriyanik/LoginPage_html-css/assets/132518854/f09ae54c-a40e-415d-82de-191136245102)
-[Paralax Website](https://cihanbagriyanik.github.io/LoginPage_html-css/)| HTML5, CSS3 |![paralax](https://github.com/cihanbagriyanik/Paralax_Website_html-css/assets/132518854/34c2225f-1d03-4820-8a79-dc7174ef3b26)
+[Paralax Website](https://cihanbagriyanik.github.io/Paralax_Website_html-css/)| HTML5, CSS3 |![paralax](https://github.com/cihanbagriyanik/Paralax_Website_html-css/assets/132518854/34c2225f-1d03-4820-8a79-dc7174ef3b26)
 [Home Furnishing](https://cihanbagriyanik.github.io/Home_Furnishing_html-css/)| HTML5, CSS3 |![furnishing](https://github.com/cihanbagriyanik/Home_Furnishing_html-css/assets/132518854/40de567f-5876-431b-b682-8e07a8bfd769)
 
 
