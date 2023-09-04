@@ -1,9 +1,11 @@
 
 
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Cihan
-<img src="https://media.giphy.com/media/SIi9Q5c5KMQhEUenYG/giphy.gif" align="right" width="400"></br>
-<font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations, <br>
-<span>  </span>I quit my job to be a developer.👨‍💻 </font>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&theme=blue-green"
+     alt=""
+     /></br>
+<font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations, I quit my job to be a developer.👨‍💻 </font>
 </br>
 <font color="pink"> 👨‍💻Nowadays I am learning development to be a Fullstack Developer.👨‍💻 </font>
 </br>
