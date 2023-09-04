@@ -1,5 +1,5 @@
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Cihan
-(https://github-readme-stats.vercel.app/api?username=cihanbagriyanik&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations.</font>
 </br>
 <font color="pink"> 🙇‍♂️ I quit my job to be a developer.</font>
