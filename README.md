@@ -63,7 +63,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Foodies](https://cihanbagriyanik.github.io/Foodies_html-css-bootstrap-js/)| HTML5, CSS3, Bootstrap, Javascript|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/c676e1f1-8139-4087-a90e-4cfabdbbc078)
+[Foodies](https://cihanbagriyanik.github.io/Foodies_html-css-bootstrap-js/)| HTML5, CSS3, Bootstrap, Javascript|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/3a32e7de-5a62-41cb-86bf-db1a1d838b86)
 [Live Music](https://cihanbagriyanik.github.io/Music_Website_html-css-js/)| HTML5, CSS, Javascript|![music](https://github.com/cihanbagriyanik/Music_Website_html-css-js/assets/132518854/4370e38f-4373-4bc4-bbd3-b178e9347cb0)
 [Checkout Page](https://cihanbagriyanik.github.io/Checkout_Form_html-css-bootstrap/)| HTML5, CSS3, Bootstrap |![checkout](https://github.com/cihanbagriyanik/Checkout_Form_html-css-bootstrap/assets/132518854/7930bf54-1423-4295-9f64-dbcf806df521)
 [Course](https://cihanbagriyanik.github.io/Clarusway_Course_html-css-bootstrap/)| HTML5, CSS3 |![course](https://github.com/cihanbagriyanik/Clarusway_Course_html-css-bootstrap/assets/132518854/eb70a740-df76-4078-97d1-5a65e1d50735)
