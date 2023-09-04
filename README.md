@@ -11,7 +11,7 @@
 <font color="pink"> 🚀 Currently, I am focusing on Javascript, SASS, Bootstrap...</font>
 
 <br></br>
-![](https://komarev.com/ghpvc/?username=cihanbagriyanik&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=cihanbagriyanik&color=tokyonight&style=for-the-badge)
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagriyanik/)
