@@ -60,7 +60,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Harry Potter](https://cihanbagriyanik.github.io/Harry_Potter_html-sass/)| HTML5, SASS|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/5fa5e182-1418-4e2f-bb94-641941136b5c)
+[Harry Potter](https://cihanbagriyanik.github.io/Harry_Potter_html-sass/)| HTML5, SASS|![Harry](https://github.com/cihanbagriyanik/Harry_Potter_html-sass/assets/132518854/46285505-4914-4570-bd11-f90c03e74bfd)
 [Foodies](https://cihanbagriyanik.github.io/Foodies_html-css-bootstrap-js/)| HTML5, CSS3, Bootstrap, Javascript|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/5fa5e182-1418-4e2f-bb94-641941136b5c)
 [Live Music](https://cihanbagriyanik.github.io/Music_Website_html-css-js/)| HTML5, CSS, Javascript|![music](https://github.com/cihanbagriyanik/Music_Website_html-css-js/assets/132518854/6440d13e-e606-479b-853c-1963a53ccd9a)
 [Checkout Page](https://cihanbagriyanik.github.io/Checkout_Form_html-css-bootstrap/)| HTML5, CSS3, Bootstrap |![checkout](https://github.com/cihanbagriyanik/Checkout_Form_html-css-bootstrap/assets/132518854/70f30b52-9eb5-43a9-a44e-ed9f4716493f)
