@@ -60,8 +60,6 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-
-
 [Technology](https://cihanbagriyanik.github.io/Technology-Responsive-Website_html-sass/)| HTML5, SASS, Responsive Design|![Technology](https://github.com/cihanbagriyanik/Technology-Responsive-Website_html-sass/assets/132518854/f8ad1d42-98d0-4217-a992-4d2d449ce592)
 [Harry Potter](https://cihanbagriyanik.github.io/Harry_Potter_html-sass/)| HTML5, SASS, Responsive Design|![Harry](https://github.com/cihanbagriyanik/Harry_Potter_html-sass/assets/132518854/46285505-4914-4570-bd11-f90c03e74bfd)
 [Foodies](https://cihanbagriyanik.github.io/Foodies_html-css-bootstrap-js/)| HTML5, CSS3, Bootstrap, Javascript|![food](https://github.com/cihanbagriyanik/Foodies_html-css-bootstrap-js/assets/132518854/5fa5e182-1418-4e2f-bb94-641941136b5c)
