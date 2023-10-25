@@ -60,6 +60,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Weather App](https://cihanbagriyanik.github.io/WeatherApp_html-css-js/)| HTML5, CSS3, Javascript|![Weather App](https://github.com/cihanbagriyanik/WeatherApp_html-css-js/assets/132518854/834a3515-51c6-4a38-aecb-69cb8770bff5)
 [ToDo App](https://cihanbagriyanik.github.io/ToDo_App_html-css-js/)| HTML5, CSS3, Javascript|![ToDo App](https://github.com/cihanbagriyanik/ToDo_App_html-css-js/assets/132518854/afa851e8-2001-4465-bc5f-86b8318cf08a)
 [iOS Calculator](https://cihanbagriyanik.github.io/iOS-Calculator_html-css-js/)| HTML5, CSS3, Javascript|![iOS Calculator](https://github.com/cihanbagriyanik/iOS-Calculator_html-css-js/assets/132518854/1f2e9990-6044-4ecc-ab53-c9efe96a2dc3)
 [Stone-Paper-Scissors](https://cihanbagriyanik.github.io/Stone_Paper_Scissors_html-css-js/)| HTML5, CSS3, Javascript|![Stone-Paper-Scissors](https://github.com/cihanbagriyanik/Stone_Paper_Scissors_html-css-js/assets/132518854/0ddf4dcc-d874-493b-8726-fc2f65ad2b99)
