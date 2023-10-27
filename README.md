@@ -58,8 +58,9 @@
 
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
+[Horoscope App](https://horoscopeapp-cihan.netlify.app/)| React, SASS, Bootstrap|![Horoscope App](https://github.com/cihanbagriyanik/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
 [Weather App](https://cihanbagriyanik.github.io/WeatherApp_html-css-js/)| HTML5, CSS3, Javascript|![Weather App](https://github.com/cihanbagriyanik/WeatherApp_html-css-js/assets/132518854/834a3515-51c6-4a38-aecb-69cb8770bff5)
 [ToDo App](https://cihanbagriyanik.github.io/ToDo_App_html-css-js/)| HTML5, CSS3, Javascript|![ToDo App](https://github.com/cihanbagriyanik/ToDo_App_html-css-js/assets/132518854/afa851e8-2001-4465-bc5f-86b8318cf08a)
 [iOS Calculator](https://cihanbagriyanik.github.io/iOS-Calculator_html-css-js/)| HTML5, CSS3, Javascript|![iOS Calculator](https://github.com/cihanbagriyanik/iOS-Calculator_html-css-js/assets/132518854/1f2e9990-6044-4ecc-ab53-c9efe96a2dc3)
