@@ -60,7 +60,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[NBA_Legends App](https://nbalegends-cihan.netlify.app/)| React, Bootstrap|![NBA_Legends App](https://github.com/cihanbagriyanik/NBA_Legends_App_react-bootstrap/assets/132518854/33494b45-296e-414a-b376-32c0867af0ac)
+[NBA Legends App](https://nbalegends-cihan.netlify.app/)| React, Bootstrap|![NBA_Legends App](https://github.com/cihanbagriyanik/NBA_Legends_App_react-bootstrap/assets/132518854/33494b45-296e-414a-b376-32c0867af0ac)
 [Horoscope App](https://horoscopeapp-cihan.netlify.app/)| React, SASS, Bootstrap|![Horoscope App](https://github.com/cihanbagriyanik/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
 [Weather App](https://cihanbagriyanik.github.io/WeatherApp_html-css-js/)| HTML5, CSS3, Javascript|![Weather App](https://github.com/cihanbagriyanik/WeatherApp_html-css-js/assets/132518854/834a3515-51c6-4a38-aecb-69cb8770bff5)
 [ToDo App](https://cihanbagriyanik.github.io/ToDo_App_html-css-js/)| HTML5, CSS3, Javascript|![ToDo App](https://github.com/cihanbagriyanik/ToDo_App_html-css-js/assets/132518854/afa851e8-2001-4465-bc5f-86b8318cf08a)
