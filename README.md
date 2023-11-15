@@ -60,7 +60,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[Appointment App](https://appointment-app-cihan.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/cihanbagriyanik/Appointment_App_react/assets/132518854/cf9e8722-acf9-4a9f-833c-0e96152f5872)-------
+[Appointment App](https://appointment-app-cihan.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/cihanbagriyanik/Appointment_App_react/assets/132518854/cf9e8722-acf9-4a9f-833c-0e96152f5872)
 [ToDo_App_with_React](https://todoapp-cihan.netlify.app/)| React, Bootstrap, Local Storage |![ToDo_App_with_React](https://github.com/cihanbagriyanik/ToDo_App_with_React_react-local_storage-bootstrap/assets/132518854/5177848b-5707-428e-8f7a-31cfc0b2358c)
 [NBA Legends App](https://nbalegends-cihan.netlify.app/)| React, Bootstrap|![NBA_Legends App](https://github.com/cihanbagriyanik/NBA_Legends_App_react-bootstrap/assets/132518854/33494b45-296e-414a-b376-32c0867af0ac)
 [Horoscope App](https://horoscopeapp-cihan.netlify.app/)| React, SASS, Bootstrap|![Horoscope App](https://github.com/cihanbagriyanik/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
