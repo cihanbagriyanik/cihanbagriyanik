@@ -58,6 +58,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
+[Movie App(IMDb-D)](https://movie-app-imdb-d.netlify.app/)| React, Tailwind, Firebase, Toastify |![Movie App](https://github.com/cihanbagriyanik/Movie_App-IMDB-D-_react-tailwind-firebase-toastify/assets/132518854/07a7cc0f-d64b-4aca-980f-1e7671ee60d6)
 [Recipe App](https://recipeapp-cihan.netlify.app)| React, React Router, Context, Styled Components |![Recipe App](https://github.com/cihanbagriyanik/Recipe_App_react-router-context-styledComponents/assets/132518854/aa2f924c-a6c8-40ee-9088-2d11488dcec7)
 [Shopping Card App](https://shoppingcard-cihan.netlify.app/)| React, React Hooks, Router, Axios, MockAPI |![Shopping Card App](https://github.com/cihanbagriyanik/Shopping_Card_react-axios-hooks-router-mockapi/assets/132518854/dadab6ce-6ab1-42d7-af0e-1698e45889e2)
 [Random User App](https://randomuserapp-cihan.netlify.app/)| React, Local Storage, React Hooks, Axios |![Random User App](https://github.com/cihanbagriyanik/Random_User_App_react-axios-useState-useEffect/assets/132518854/7c7fe185-4e7d-4db4-a737-a7344f6bf6d6)
