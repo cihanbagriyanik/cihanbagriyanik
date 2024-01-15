@@ -8,7 +8,7 @@
 </br>
 <font color="pink"> 🔥 My developer career started in 2023, and it goes on...</font>
 <br>
-<font color="pink"> 🚀 Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
+<font color="pink"> 🚀 Currently, I am focusing on React, TypeScript, Redux, MaterialUI...</font>
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=cihanbagriyanik&color=green&style=for-the-badge)
