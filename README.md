@@ -10,7 +10,7 @@
 </br>
 <font color="pink"> 🔥 My developer career started in 2023, and it goes on...</font>
 <br>
-<font color="pink"> 🚀 Currently, I am focusing on NodeJs, ExpressJs, MySQL, MongoDB...</font>
+<font color="pink"> 🚀 Currently, I’m actively seeking new opportunities as a Fullstack Developer.</font>
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=cihanbagriyanik&color=green&style=for-the-badge)
