@@ -42,7 +42,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="materialUI" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="antDesign" height="45"/> </a> 
-<a href="#" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X3dMpXeu1vISlOfQYN8cWw.png" alt="MySQL" height="45"/> </a> 
+<a href="#" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X3dMpXeu1vISlOfQYN8cWw.png" alt="MySQL" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" height="45"/> </a>
