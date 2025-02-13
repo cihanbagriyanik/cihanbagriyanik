@@ -25,12 +25,11 @@
 </br>
 
 ## 🚀 Skills
-
 <p>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="css" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" height="45"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" alt="js" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>
